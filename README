@@ -1,0 +1,4 @@
+# Firebase cli script
+
+This script is used to deploy a static set of files over to a Firebase Hosting service.
+Currently being used to deploy to https://debugthis.dev - which is a blog using Hugo.
